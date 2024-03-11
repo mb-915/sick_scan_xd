@@ -57,6 +57,7 @@
 
 #ifndef SICK_SCAN_BASE_H_INCLUDED
 #define SICK_SCAN_BASE_H_INCLUDED
+#include <cstdint>
 #ifdef  __cplusplus
 
 #if !defined __ROS_VERSION || __ROS_VERSION == 0

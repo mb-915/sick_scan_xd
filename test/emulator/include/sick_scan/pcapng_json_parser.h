@@ -56,7 +56,6 @@
 #ifndef __PCAPNG_JSON_PARSER_H_INCLUDED
 #define __PCAPNG_JSON_PARSER_H_INCLUDED
 
-#include <cstdint>
 #include <map>
 #include <string>
 #include <vector>

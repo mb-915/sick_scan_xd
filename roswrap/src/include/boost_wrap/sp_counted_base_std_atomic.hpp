@@ -21,7 +21,6 @@ typedef std::type_info sp_typeinfo;
 #define BOOST_SP_TYPEID(T) typeid(T)
 #define BOOST_CONSTEXPR constexpr
 #include <atomic>
-#include <cstdint>
 
 namespace boost
 {

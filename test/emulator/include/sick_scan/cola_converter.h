@@ -60,7 +60,6 @@
 #ifndef __SIM_LOC_COLA_CONVERTER_H_INCLUDED
 #define __SIM_LOC_COLA_CONVERTER_H_INCLUDED
 
-#include <cstdint>
 #include <map>
 #include <string>
 #include <vector>
